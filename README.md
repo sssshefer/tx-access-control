@@ -1,5 +1,7 @@
+<img src="https://github.com/user-attachments/assets/316e17f5-c491-4559-8901-1d7a0f326dbd" alt="access-control-img"/>
+
 # Transaction Access Control
-The `tx-access-control` project implements a role-based access control system in Solidity, complete with accompanying tests. This project serves as a basic implementation, while more advanced versions can be found on the OpenZeppelin website.
+This project implements a role-based access control system in Solidity, complete with accompanying tests. This project serves as a basic implementation, while more advanced versions can be found on the OpenZeppelin website.
 
 ## Table of Contents
 
@@ -21,7 +23,7 @@ The `tx-access-control` project implements a role-based access control system in
 - **Role Assignment:** Grant and revoke roles to different accounts.
 - **Access Control:** Enforce role-based restrictions on various contract functions.
 - **Admin Roles:** Support for hierarchical role administration.
-- 
+  
 ## Theory Notes
 
 ### AAA concepts in a Blockchain
@@ -80,5 +82,7 @@ To run this project locally, follow these steps:
     ```
 
 By following these steps, you can explore and extend the functionality of the `tx-access-control` project to fit your needs.
+
+<a href="https://ru.freepik.com/free-vector/krosecnye-ludi-nesut-kluc-ctoby-otkryt-zamok_13683703.htm#fromView=search&page=1&position=0&uuid=8f566f2d-7ae9-4475-8af2-04f608c1de9e">Pic from pch.vector on Freepik</a>
 
 *** Happy hacking ***
