@@ -85,4 +85,4 @@ By following these steps, you can explore and extend the functionality of the `t
 
 <a href="https://ru.freepik.com/free-vector/krosecnye-ludi-nesut-kluc-ctoby-otkryt-zamok_13683703.htm#fromView=search&page=1&position=0&uuid=8f566f2d-7ae9-4475-8af2-04f608c1de9e">Pic from pch.vector on Freepik</a>
 
-*** Happy hacking ***
+***Happy hacking***
